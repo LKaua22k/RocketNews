@@ -65,6 +65,7 @@ body{
 
   .texts{
     display: flex;
+    width: 59rem;
     flex-direction: column;
   }
 
@@ -210,8 +211,11 @@ body{
         margin: 0 3rem;
         text-align: center;
     }
+    .texts{
+      width: 49rem;
+    }
     .content__box{
-      width: initial;
+      width: 49rem;
     }
     .bg-image,.img{
         display: none;
@@ -221,23 +225,21 @@ body{
 
   @media (max-width:576px) {
     .container{
-        margin: 0;
+      gap: 2.6rem;
+      margin: 0;
     }
     .card{
         width: 58rem;
         margin: 0 3rem;
     }
-    form{
-      text-align: center;
+    header img{
+      width: 29.9rem;
+    }
+    .texts{
+      width: 36rem;
     }
     .content__box{
-      width: initial;
-    }
-    form{
-      text-align: center;
-    }
-    .content__box{
-      width: initial;
+      width: 36rem;
     }
     .bg-image,.img{
         display: none;
@@ -254,8 +256,14 @@ body{
     form{
       text-align: center;
     }
+    header img{
+      width: 29.9rem;
+    }
+    .texts{
+      width: 36rem;
+    }
     .content__box{
-      width: initial;
+      width: 36rem;
     }
     .bg-image,.img{
         display: none;
