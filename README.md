@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O RocketNews é um uma página para captação de leads ou newsletter.
+O RocketNews é uma página para captação de leads ou newsletter.
 
 - [Acesse o projeto finalizado, online](https://LKaua22k.github.io/RocketNews)
 
